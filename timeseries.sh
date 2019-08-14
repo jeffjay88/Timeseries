@@ -3,7 +3,7 @@ paths=`pwd`		#allocates the present working directory (pwd) to the variable path
 
 echo
 echo "#####################################################"
-echo "#  This script was written by Gyerph (NNF).  Feel   #"
+echo "#  This script was written by Gyerph.  Feel         #"
 echo "# free to modify any part of the code for your use. #"
 echo "#####################################################"
 echo
